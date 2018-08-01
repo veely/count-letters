@@ -12,4 +12,3 @@ var countLetters = function(letters) {
   }
   return obj;
 };
-console.log(countLetters('DAOIjaokdw'));
